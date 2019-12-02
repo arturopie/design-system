@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
 ## [0.16.9](https://github.com/nulogy/design-system/compare/v0.16.8...v0.16.9) (2019-12-02)
 
 ### Bug Fixes
@@ -30,13 +33,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 - use conventional commits to automatically update change logs and package version ([#476](https://github.com/nulogy/design-system/issues/476)) ([7f5be53](https://github.com/nulogy/design-system/commit/7f5be53))
-
-# Changelog
-
-All notable changes to this project will be documented in this file.
-
-The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [0.16.4] - 2019-11-29
 
